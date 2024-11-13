@@ -1,0 +1,9 @@
+.env
+graph_output.png
+data/*
+myenv/*
+Procfile
+pyproject.toml
+Makefile
+README.md
+LICENSE

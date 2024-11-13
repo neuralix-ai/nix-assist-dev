@@ -1,0 +1,9 @@
+{
+    "name": "Nix-Assist Demo",
+    "description": "A streamlit demo of nix-assist feature requirements",
+    "repository": "https://github.com/sumukhi-nix/nix_assist_demo",
+    "keywords": [
+        "streamlit",
+        "python"
+    ]
+}
